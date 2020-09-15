@@ -1,10 +1,17 @@
 **Rendering in React: Thinking in React**
 
-1. What principle do we use to determine what should be a component?
-**Answer: Single Responsibility**
+1. True or False: Every time you run a snapshot test, a new snapshot is created and saved.
+**Answer: B**  False
 
-2. Let's say we are creating a RosterApp. It will look like this:
-**Answer: Option C**
+2. Which of the following is correct for creating a snapshot of the `App` component?
 
-3. Again we are creating RosterApp which looks like this:
-**Answer: Option C**
+Assume you have the following import statements.
+
+```js
+import React from "react";
+import { create } from "react-test-renderer";
+import App from "./App";
+```
+
+**Answer: B**
+`expect(create(<App />).toJSON()).toMatchSnapshot()`
