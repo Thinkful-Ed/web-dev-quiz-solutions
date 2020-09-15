@@ -1,4 +1,4 @@
-**Rendering in React: Thinking in React**
+**Rendering in React: Snapshot Testing**
 
 1. True or False: Every time you run a snapshot test, a new snapshot is created and saved.
 **Answer: B**  False
