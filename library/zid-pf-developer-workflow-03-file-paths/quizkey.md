@@ -65,7 +65,7 @@ animal
     └── snake
 ```
 
-Which of the options is the correct path to the `cow/` directory?
+Which of the options is the correct path to the `zebra/` directory?
 
 **Answer:  C**
-`../bovine/cow`
+`./equine/zebra`
