@@ -47,19 +47,21 @@ const result = [ authors, author ];
 author.knighted = true;
 console.log(result);
 
-**Answer: C**
+**Answer: D**
 [
-  {
-    name: { first: "Neil", surname: "Gaiman" },
-    knighted: false,
-  },
-  {
-    name: {
-      first: "Terry",
-      surname: "Pratchett",
-      knighted: true,
+  [
+    {
+      name: { first: "Neil", surname: "Gaiman" },
+      knighted: false,
     },
-  },
+    {
+      name: {
+        first: "Terry",
+        surname: "Pratchett",
+        knighted: true,
+      },
+    },
+  ],
   {
     name: {
       first: "Terry",
