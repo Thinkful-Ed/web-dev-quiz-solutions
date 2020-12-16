@@ -23,7 +23,7 @@ You make some changes to the text inside of `main.txt`. How can you take a look 
 1. Imagine you have a local repository in a directory called `git-github-assignment`. One file exists and has already been committed, called `main.txt`.
 What command would you run to see your previous commit?
 
-**Answer:  A** `git init`
+**Answer:  A** `git log`
 
 1. Imagine you have a local repository in a directory called `git-github-assignment`. One file exists and has already been committed, called `main.txt`. You've created a remote repository and connected it with your local repository.
 What command would you run to take a look at the remote URL?
