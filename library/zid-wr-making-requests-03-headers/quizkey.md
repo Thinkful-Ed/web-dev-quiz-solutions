@@ -5,7 +5,7 @@
 **Answer:  B** `POST`
 
 
-2. In the image above, what the request body is being sent in what format?
+2. In the image above, the request body is being sent in what format?
 
 **Answer:  A** JSON
 
