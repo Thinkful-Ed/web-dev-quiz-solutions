@@ -4,12 +4,12 @@
 
 There are a few different options for this answer.  Here is a potential soluiton to the question:
 
-**Answer: create.?react.?app**
+**Answer: npx create-react-app example**
 
 2.  Assume you are in a the a project directory created by create-react-app. What is the command for starting the app?
 
 There are a few different options for this answer.  Here is a potential soluiton to the question:
 
-**Answer: npm +start**
+**Answer: npm start**
  
 
