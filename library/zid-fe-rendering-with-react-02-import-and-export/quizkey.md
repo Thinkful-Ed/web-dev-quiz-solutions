@@ -16,12 +16,12 @@ export const e = 2.718;
 Which of the following are valid import statements for a file in the same directory as `a.js` and `b.js`?
 
 
-**Answer:  A** `import a from a.js;`
+**Answer:  A** `import a from "./a";`
 
-**Answer:  B** `import fruit from a.js;`
+**Answer:  B** `import fruit from "./a";`
 
-**Answer:  E** `import fruit, { cost } from a.js`
+**Answer:  E** `import fruit, { cost } from "./a"`
 
-**Answer:  G** `import { pi } from b.js;`
+**Answer:  G** `import { pi } from "./b";`
 
-**Answer:  I** `import { pi, e } from b.js;`
+**Answer:  I** `import { pi, e } from "./b";`
