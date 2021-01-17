@@ -19,3 +19,17 @@ Feel free to use the following link to help look up the message and code.
 - [MDN: Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 
 **Answer:  B** 204
+
+5. Which of the following status codes results in a message that conveys that the request has succeeded and a new resource has been created?
+
+Feel free to use the following link to help look up the message and code.
+- [MDN: Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+
+**Answer:  A** 201
+
+6. Which of the following status codes results in the message `I'm a teapot`?
+
+Feel free to use the following link to help look up the message and code.
+- [MDN: Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+
+**Answer:  D** 418
