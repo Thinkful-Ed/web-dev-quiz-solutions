@@ -17,7 +17,7 @@ What would happen if the following command was run _from `feature-branch`_.
 git merge feature-branch
 ```
 
-**Answer:  A** You would receive an error, as you would be trying to merge `feature-branch` with itself.
+**Answer:  C** You would receive the message "Already up to date." No new commits are being added to `feature-branch`.
 
 
 3. Imagine the following two branches each have a number of commits:
