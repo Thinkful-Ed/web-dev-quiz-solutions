@@ -4,13 +4,13 @@
 
 ```javascript
 const colors = ["blue", "green", "red", "yellow"];
-for (var i = 0; i < colors.length; i++) {
+for (let i = 0; i < colors.length; i++) {
   colors[i] = colors[i].toUpperCase();
 }
 console.log(i);
 ```
-**Answer: B**
-`4`
+**Answer: D**
+`Uncaught ReferenceError: i is not defined`
 
 2.Evaluate the following code. What will be logged or what error will first be thrown?
 
