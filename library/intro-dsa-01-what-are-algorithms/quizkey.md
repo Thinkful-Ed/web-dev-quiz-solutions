@@ -24,7 +24,11 @@
 Given two integers a and b as inputs, return the value of a devided by b. If b = 0 return "Cannot divide by zero".
 
 The following algorithm purports to solve this problem.
-
+```
+function divide(a, b) {
+  return a / b;
+}
+```
 **Answer: A. Correctness - The output produced by the algorithm is correct for all valid input**
 
 4. The number of steps that are needed to execute an algorithm for a given input is called the...
