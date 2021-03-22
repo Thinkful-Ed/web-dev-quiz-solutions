@@ -9,7 +9,7 @@
 
 **Answer: D. The outputs of the problem must be specified**
 
-**Answer: E. The relationship between the inputs and the outputs must be specified**
+**Answer: F. The relationship between the inputs and the outputs must be specified**
 
 2. Select all that are true about **algorithms**
 
