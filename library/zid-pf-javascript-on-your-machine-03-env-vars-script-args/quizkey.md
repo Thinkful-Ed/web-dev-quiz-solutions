@@ -44,12 +44,7 @@ if (argument) {
 
 4. Assume you have access to an environment variable called `USER` which points to the value `Robin`. 
 
-Then, assume you run the following file with this command: 
-```bash
-node file.js Nice to meet you
-```
-
-What will be printed to the terminal?
+Then, assume you run the following file with this command: `node file.js Nice to meet you` . What will be shown in the terminal?
 
 ```javascript
 console.log(process.env.USER + " says: " + process.argv[2]);
