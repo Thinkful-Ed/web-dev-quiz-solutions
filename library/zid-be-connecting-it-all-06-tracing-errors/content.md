@@ -4,7 +4,7 @@
 **False**
 
 2. Is the following statement true or false? A DEBUG log message has a higher severity than an INFO log message
-**True**
+**False**
 
 3. Is the following statement true or false? For logging, it's easy to know what information you will need in the future.
 **False**
