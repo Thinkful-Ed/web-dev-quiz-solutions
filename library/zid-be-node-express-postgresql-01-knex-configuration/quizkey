@@ -1,0 +1,16 @@
+**Node + Express + Postgres: Knex configuration**
+
+1. What is Knex?
+**Answer Key: D. A SQL query builder library that you can use with different types of databases.**
+
+2. What are typical environments that an engineering team would have?
+**Answer Key: B. development, staging, production**
+
+3. What is NOT a purpose that development teams use multiple environments?
+**Answer Key: A. To reduce costs by separating the database from the server.**
+
+4. What is the purpose of a knexfile?
+**Answer Key: D. To setup and maintain database configurations across different environments.**
+
+
+
