@@ -62,4 +62,4 @@ let b = a;
 color.hex = "FF312E";
 console.log(b);
 ```
-**Answer: B** `{ name: "red", hex: "FF312E" }`
+**Answer: B** `{ color: { name: "red", hex: "FF312E" } }`
