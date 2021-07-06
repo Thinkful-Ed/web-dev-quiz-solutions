@@ -2,7 +2,7 @@
 
 1.  Which of the following could be considered a 'client?'
 
-**Answer:  E** All of the above.
+**Answer:  A** A Browser.
 
 2.  What is the purpose of the DNS?
 
