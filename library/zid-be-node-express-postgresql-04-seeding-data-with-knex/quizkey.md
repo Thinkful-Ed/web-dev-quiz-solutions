@@ -4,8 +4,8 @@
 **Answer Key: B. Test data does not need to be recreated after deleting database tables**
 
 
-2. What SQL command deletes a database and restores the Primary Keys to their original values?
-**Answer Key: A. TRUNCATE**
+2. What SQL command removes all records from the fruits table and restores the Primary Keys to their original values?
+**Answer Key: A. TRUNCATE TABLE fruits RESTART IDENTITY**
 
 3. Where does knex store the seed files by default?
 **Answer Key: D. ./seeds**
