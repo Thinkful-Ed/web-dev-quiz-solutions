@@ -33,10 +33,10 @@ What command would you run to take a look at the remote URL?
 7. Imagine you have a local repository in a directory called `git-github-assignment`. One file exists and has already been committed, called `main.txt`. You've created a remote repository and connected it with your local repository.
 What command would you run to move your commits from your local repository to the remote repository.
 
-**Answer:  I** `git push origin master`
+**Answer:  I** `git push origin main`
 
 8. Imagine you have a local repository in a directory called `git-github-assignment`. One file exists and has already been committed, called `main.txt`. You've created a remote repository and connected it with your local repository.
 A new commit has been made on the remote repository. What command would you run to get your local repository in sync with the remote one?
 
-**Answer:  H** `git pull origin master`
+**Answer:  H** `git pull origin main`
 
