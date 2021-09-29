@@ -12,11 +12,11 @@ What's the _next step_ you should take?
 
 **Answer:  A** Push your feature branch to GitHub.
 
-3. You're looking to add a feature to an existing repository. Unfortunately, while the repository is public, you do not have direct write access to the repository.
+3. Imagine that you created a repository for a new project and you want to add collaborators so that they can contribute to your project.
 
-Which of the following is the correct process for adding a feature to the new repository.
+Which of the following will allow collaborators to contribute to your repository?
 
-**Answer: C** Fork and clone the repository. Then, add the new feature. Push your code to _your_ remote repository and then create a Pull Request, comparing your remote repository against the original remote repository.
+**Answer: C** Invite collaborators using the `Manage Access` setting of the repository.
 
 
 4. Imagine you've been working on a personal feature branch called `new-team-form`. You've just completed your work and made a commit.
