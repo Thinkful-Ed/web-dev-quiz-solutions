@@ -1,6 +1,6 @@
 **Node + Express + Postgres: Connecting to the database with Knex**
 
-1.  What are environmnet variables? 
+1.  What are environment variables? 
 
 **Answer: B. Variables set outside of a program, normally on the server**
 
