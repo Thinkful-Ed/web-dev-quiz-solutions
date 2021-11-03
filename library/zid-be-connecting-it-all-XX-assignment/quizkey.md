@@ -21,9 +21,9 @@
 
 4. Is the following statement true or false?
 
-> To render a webpage, the client may send several request to the server.
+> To render a webpage, the client may send several requests to the server.
 
-**Answer: False**
+**Answer: True**
 
 5. Is the following statement true or false?
 
