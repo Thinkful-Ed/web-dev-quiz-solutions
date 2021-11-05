@@ -23,6 +23,6 @@ It reads files sequentially, writing them to the standard output.
 > What does the `tail` command do?
 
 **Answer:  B** 
-It displays the contents of file or, by default, its standard input, to the standard output.
+It prints the last 10 lines of a file to standard output.
 
 
