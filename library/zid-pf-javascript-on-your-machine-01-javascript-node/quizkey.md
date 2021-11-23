@@ -15,7 +15,7 @@ const message = "Welcome to the garden!";
 return message;
 ```
 
-**Answer:  A** Nothing
+**Answer:  B** Syntax Error
 
 4. If you were to run this file with the `node` command, what would be outputted to the terminal?
 
