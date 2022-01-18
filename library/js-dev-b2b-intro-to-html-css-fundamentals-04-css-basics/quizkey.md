@@ -16,7 +16,7 @@ B. `<link to="style.css" rel="stylesheet" type="text/css" />`
 C. `<style href="style.css" rel="stylesheet" type="text/css" />`
 D. `<style to="style.css" rel="stylesheet" type="text/css" />`
 
-**Answer: B**
+**Answer: A**
 
 3. You'd like to set a background color of `red` for all `div` elements on your web page. Which of the following syntax is correct?
 
