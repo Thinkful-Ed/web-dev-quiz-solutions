@@ -7,6 +7,7 @@ console.log(typeof "2020")
 Answer: string
 
 
+
 2. What will print to the console when the following code executes?
 
 ```
@@ -15,6 +16,7 @@ console.log(total)
 ```
 Answer: 1210
 
+
 3. Which option does not convert myAge into a Number?
 
 ```
@@ -22,6 +24,7 @@ let myAge = "24";
 ```
 
 Answer: myAge = parseNum(myAge)
+
 
 4. What will print to the console when the following code executes?
 
@@ -32,6 +35,7 @@ console.log(typeof myName)
 
 Answer: string
 
+
 5. What will print to the console when the following code executes?
 
 ```
@@ -39,6 +43,7 @@ let myAge;
 console.log(typeof myAge)
 ```
 Answer: undefined
+
 
 6. What will print to the console when the following code executes?
 
@@ -49,6 +54,7 @@ console.log(numberOne - numberTwo)
 ```
 
 Answer: 1
+
 
 7. What will print to the console when the following code executes?
 
