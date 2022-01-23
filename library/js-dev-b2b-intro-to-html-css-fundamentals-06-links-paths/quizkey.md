@@ -36,7 +36,7 @@ Here's the folder structure:
     └── global.css
 ```
 
-Choose the `index.html` that is properly linked to all images, scripts, and stylesheets in the folder.
+Choose the `index.html` file that is properly linked to all images, scripts, and stylesheets in the folder.
 
 A.
 ```html
