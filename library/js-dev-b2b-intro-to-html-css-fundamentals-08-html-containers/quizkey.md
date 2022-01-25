@@ -9,7 +9,7 @@ D. HTML elements that wrap around web page content—namely text, images, and li
 
 **Answer: D**
 
-1. What is semantic code? 
+2. What is semantic code? 
 
 A. Code that is clean and follows refactoring best practices
 B. Code that has a specific, logical meaning that helps describe the content that it is associated with
@@ -30,7 +30,7 @@ D. `<head>`, `<nav>`, `<footer>`, `<main>`, `<template>`, `<container>`
 4. What is SEO?
 
 A. It stands for Semantic Engine Optimization, which is the process of writing semantic HTML so that search engines will prioritize your website in relevant search queries
-B. It stands for Search Engine Optimization, which is the process of writing semantic HTML so that search engines will prioritize your website in relevant search queries
+B. It stands for Search Engine Optimization, which is the process of writing optimized HTML so that your website will load faster
 C. It stands for Semantic Engine Optimization, which is the process of tailoring web content so that search engines will prioritize your website in relevant search queries
 D. It stands for Search Engine Optimization, which is the process of tailoring web content so that search engines will prioritize your website in relevant search queries
 
