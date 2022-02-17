@@ -2,7 +2,7 @@
 
 
 1. Skim the page below:
-* [npmjs.com: faker.js](https://www.npmjs.com/package/faker)
+* [npmjs.com: faker.js](https://www.npmjs.com/package/@faker-js/faker)
 Which of the following options most correctly describes the purpose of the `faker` package?
 
 **Answer:  B** The package helps you generate randomized, fake data.
