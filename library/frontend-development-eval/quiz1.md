@@ -1,6 +1,6 @@
 ### Frontend Development: HTML, CSS and JavaScript evaluation
 
-1. Choose the correct statement(s).
+1 - Choose the correct statement(s).
 
 A. CSS creates the structure of a web page
 
@@ -12,7 +12,7 @@ D. CSS applies styling to a web page
 
 **Correct Answer: A & B**
 
-2. Which of the following statement(s) are TRUE about web page templates? You may select more than one option.
+2 - Which of the following statement(s) are TRUE about web page templates? You may select more than one option.
 
 A. `<!DOCTYPE html>` is a required first line of code that declares a document as an HTML5 web page.
 
@@ -24,7 +24,7 @@ D. The `<link>` element is used to connect and reference resources on the intern
 
 **Correct Answer: A, B, C, & D**
 
-3. Consider the diagram of a part of the DOM below. Which snippet of HTML is most likely to generate this DOM structure?
+3 - Consider the diagram of a part of the DOM below. Which snippet of HTML is most likely to generate this DOM structure?
 ![image.png](http://res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/9995e67b60d2933540dce4c7e06662d9-image.png)
 
 A. 
@@ -72,7 +72,7 @@ D.
      <img src="me.jpg"/>
 ```
 
-4. You have a folder containing some HTML, CSS, JavaScript, and image files and you have to link them together so that your web page would display properly.
+4 - You have a folder containing some HTML, CSS, JavaScript, and image files and you have to link them together so that your web page would display properly.
 
 Here's the folder structure:
 ```
@@ -149,7 +149,7 @@ D.
 ```
 **Correct Answer: B**
 
-5. Select all statements that are TRUE about CSS Style Sheets.
+5 - Select all statements that are TRUE about CSS Style Sheets.
 
 A. Internal style sheets make it harder to reuse CSS code, since the CSS rules are written within the individual web page
 B. Each HTML file can only link to one external style sheet.
@@ -158,7 +158,7 @@ D. Inline styles are added to an element using the style attribute and work only
 
 **Correct Answer: A & D**
 
-6. In Javascript, what does the following comparison statement return?
+6 - In Javascript, what does the following comparison statement return?
 
 ```
 7 === "7";
@@ -170,7 +170,7 @@ B. true
 
 **Correct Answer: A**
 
-7. In Javascript, what does the following comparison statement return?
+7 - In Javascript, what does the following comparison statement return?
 
 ```
 7 == "7";
@@ -182,7 +182,7 @@ B. true
 
 **Correct Answer: B**
 
-8. What will be output to the console after the code runs?
+8 - What will be output to the console after the code runs?
 ```js
 let myName = "Kiara";
 let greeting = myName + ", Welcome to our website!"
@@ -199,7 +199,7 @@ D. Kiara, Welcome to our website!
 
 **Correct Answer: D**
 
-9. What is the correct way to access guava in the fruits array?
+9 - What is the correct way to access guava in the fruits array?
 
 `let fruits = ["orange", "pineapple", "guava", "jackfruit", "banana", "apple"]`
 
@@ -211,7 +211,7 @@ C. fruits[3]
 
 D. fruits.guava
 
-10. What will print to the console when the following code executes?
+10 - What will print to the console when the following code executes?
 ```js
 let totals = [10,20,30,40];
 for(let i=2; i < totals.length; i++){
@@ -243,7 +243,7 @@ D.
 80
 ```
 
-11. Mentally evaluate the following code. 
+11 - Mentally evaluate the following code. 
 
 ```js
 function shortTitle(title) {
@@ -278,7 +278,7 @@ D. Reference Error
 
 **Correct Answer: C***
 
-12. What does are the keys in the person object?
+12 - What does are the keys in the person object?
 ```js
 let person = {
   "name" : "E.T.",
@@ -294,7 +294,7 @@ C. "name" and "homePhone", "E.T." and "586-010-1982"
 
 **Correct Answer: A**
 
-13. What is the difference between Git and GitHub?
+13 - What is the difference between Git and GitHub?
 
 A. Git is the website where users can store and manage versions of their code projects online. GitHub is the open-source system used for version control.
 
@@ -306,7 +306,7 @@ D. Git is the open-source system used for version control.GitHub is the person w
 
 **Correct Answer: C**
 
-14. Imagine you have a local repository in a directory called git-github-assignment. You've created a new file called main.txt that has some text added to it.
+14 - Imagine you have a local repository in a directory called git-github-assignment. You've created a new file called main.txt that has some text added to it.
 
 What command could you run to move this file from untracked to staged?
 
@@ -324,7 +324,7 @@ F. git commit -m <commit message>
   
 **Correct Answer: C**
   
-15. Imagine you have a local repository in a directory called git-github-assignment. You've created a new file called main.txt that is now staged.
+15 - Imagine you have a local repository in a directory called git-github-assignment. You've created a new file called main.txt that is now staged.
 
 What command could you run create a new commit with this file?
   
@@ -342,7 +342,7 @@ F. git commit -m <commit message>
   
 **Correct Answer: F**
   
-16. Imagine you have a local repository in a directory called git-github-assignment. One file exists and has already been committed, called main.txt. You've created a remote repository and connected it with your local repository.
+16 - Imagine you have a local repository in a directory called git-github-assignment. One file exists and has already been committed, called main.txt. You've created a remote repository and connected it with your local repository.
 
 What command would you run to move your commits from your local repository to the remote repository?
   
