@@ -11,7 +11,7 @@ C. HTML applies styling to a web page
 
 D. CSS applies styling to a web page
 
-**Correct Answer: A & B**
+**Correct Answer: B & D**
 
 
 2 - Which of the following statement(s) are TRUE about web page templates? You may select more than one option.
@@ -220,6 +220,8 @@ C. fruits[3]
 
 D. fruits.guava
 
+**Correct Answer: A**
+
 
 10 - What will print to the console when the following code executes?
 ```js
@@ -252,6 +254,7 @@ D.
 60
 80
 ```
+**Correct Answer: C**
 
 
 11 - Mentally evaluate the following code. 
