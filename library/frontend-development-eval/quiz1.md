@@ -1,8 +1,11 @@
 1. Choose the correct statement(s).
 
 A. CSS creates the structure of a web page
+
 B. HTML creates the structure of a web page
+
 C. HTML applies styling to a web page
+
 D. CSS applies styling to a web page
 
 **Correct Answer: A & B**
@@ -10,14 +13,17 @@ D. CSS applies styling to a web page
 2. Which of the following statement(s) are TRUE about web page templates? You may select more than one option.
 
 A. `<!DOCTYPE html>` is a required first line of code that declares a document as an HTML5 web page.
+
 B. The `<head>` part of a HTML document holds meta information about the web page, such as the title and links to external stylesheets.
+
 C. `<meta name="viewport" content="width=device-width" />` is a meta tag that ensures that a web page displays properly across both desktop and mobile devices by setting the width of the web page to follow the screen width of the device the user is viewing.
+
 D. The `<link>` element is used to connect and reference resources on the internet.
 
 **Correct Answer: A, B, C, & D**
 
 3. Consider the diagram of a part of the DOM below. Which snippet of HTML is most likely to generate this DOM structure?
-![image.png](//res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/9995e67b60d2933540dce4c7e06662d9-image.png)
+![image.png](http://res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/9995e67b60d2933540dce4c7e06662d9-image.png)
 
 A. 
 ```
@@ -157,6 +163,7 @@ D. Inline styles are added to an element using the style attribute and work only
 ```
 
 A. false
+
 B. true
 
 **Correct Answer: A**
@@ -168,6 +175,7 @@ B. true
 ```
 
 A. false
+
 B. true
 
 **Correct Answer: B**
@@ -180,8 +188,11 @@ console.log(greeting)
 ```
 
 A. myName + ", Welcome to our website!"
+
 B. myName, Welcome to our website!
+
 C. "Kiara"", Welcome to our website!"
+
 D. Kiara, Welcome to our website!
 
 **Correct Answer: D**
@@ -191,8 +202,11 @@ D. Kiara, Welcome to our website!
 `let fruits = ["orange", "pineapple", "guava", "jackfruit", "banana", "apple"]`
 
 A. fruits[2]
+
 B. fruits["guava"]
+
 C. fruits[3]
+
 D. fruits.guava
 
 10. What will print to the console when the following code executes?
@@ -253,8 +267,11 @@ console.log(shortened);
 What will be printed to the console?
 
 A. `"Bad Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch"`
+
 B. `"Bad Omens:"`
+
 C. `"Bad Omens"`
+
 D. Reference Error
 
 **Correct Answer: C***
@@ -268,7 +285,9 @@ let person = {
 ```
 
 A. "name" and "homePhone"
+
 B. "E.T." and "586-010-1982"
+
 C. "name" and "homePhone", "E.T." and "586-010-1982"
 
 **Correct Answer: A**
@@ -276,8 +295,11 @@ C. "name" and "homePhone", "E.T." and "586-010-1982"
 13. What is the difference between Git and GitHub?
 
 A. Git is the website where users can store and manage versions of their code projects online. GitHub is the open-source system used for version control.
+
 B. Git is a project's folder that contains all of the files for the project, as well as each file's revision history. GitHub is the open-source system used for version control.
+
 C. Git is the open-source system used for version control. GitHub is the company that runs a website where users can store and manage versions of their code projects online.
+
 D. Git is the open-source system used for version control.GitHub is the person who creates a repo and therefore determines if it is public or private.
 
 **Correct Answer: C**
@@ -287,10 +309,15 @@ D. Git is the open-source system used for version control.GitHub is the person w
 What command could you run to move this file from untracked to staged?
 
 A. git remote -v
+
 B. git init
+
 C. git add -A
+
 D. git pull origin main
+
 E. git push origin main
+
 F. git commit -m <commit message>
   
 **Correct Answer: C**
@@ -300,10 +327,15 @@ F. git commit -m <commit message>
 What command could you run create a new commit with this file?
   
 A. git remote -v
+
 B. git init
+
 C. git add -A
+
 D. git pull origin main
+
 E. git push origin main
+
 F. git commit -m <commit message>
   
 **Correct Answer: F**
@@ -313,10 +345,15 @@ F. git commit -m <commit message>
 What command would you run to move your commits from your local repository to the remote repository?
   
 A. git remote -v
+
 B. git init
+
 C. git add -A
+
 D. git pull origin main
+
 E. git push origin main
+
 F. git commit -m <commit message>
   
 **Correct Answer: E**
