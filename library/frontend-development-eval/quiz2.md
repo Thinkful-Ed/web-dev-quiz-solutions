@@ -28,7 +28,8 @@ D. section < h2 { font-size: 35px };
 **Correct Answer: B**
                
 3 - Consider the diagram of a part of the DOM below. Which snippet of HTML is most likely to generate this DOM structure?
-![image.png](//res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/9995e67b60d2933540dce4c7e06662d9-image.png)
+
+![image.png](http://res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/9995e67b60d2933540dce4c7e06662d9-image.png)
 
 A. 
 ```
