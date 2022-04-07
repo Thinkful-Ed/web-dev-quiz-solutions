@@ -13,7 +13,7 @@ D. CSS applies styling to a web page
 **Correct Answer: A, B, & D**
 
 
-2 - You would like all <h2> headings nested within <section> containers to have a font-size of 35px. Which of the following CSS selector would you apply?
+2 - You would like all h2 headings nested within `<section>` containers to have a font-size of 35px. Which of the following CSS selector would you apply?
   
 A. section > h2 { font-size: 35px };
 
