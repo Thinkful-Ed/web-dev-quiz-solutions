@@ -1,5 +1,6 @@
 ### Frontend Development: HTML, CSS and JavaScript evaluation (quiz 2)
 
+
 1 - Choose the correct statement(s).
 
 A. JavaScript is used for adding interactivity to web pages.
@@ -11,6 +12,7 @@ C. HTML applies styling to a web page
 D. CSS applies styling to a web page
 
 **Correct Answer: A, B, & D**
+
 
 
 2 - You would like all h2 headings nested within `<section>` containers to have a font-size of 35px. Which of the following CSS selector would you apply?
@@ -76,6 +78,7 @@ D.
 
 **Correct Answer: A** 
 
+
 4 - True/False. The following HTML code is correctly written:
 ```html
 <main>
@@ -89,6 +92,7 @@ A. True
 B. False
 
 **Correct Answer: B**
+
 
 
 5 - Which of the following statement(s) are TRUE about CSS?
