@@ -22,7 +22,7 @@ B. The `<head>` part of a HTML document holds meta information about the web pag
 
 C. `<meta name="viewport" content="width=device-width" />` is a meta tag that ensures that a web page displays properly across both desktop and mobile devices by setting the width of the web page to follow the screen width of the device the user is viewing.
 
-D. The `<link>` element is used to connect and reference resources on the internet.
+D. The `<link>` element is used to connect and reference resources, such as stylesheets, on the internet.
 
 **Correct Answer: A, B, C, & D**
 
@@ -158,7 +158,7 @@ D.
 
 A. Internal style sheets make it harder to reuse CSS code, since the CSS rules are written within the individual web page
 B. Each HTML file can only link to one external style sheet.
-C. You can add external style sheets using the <style>/</style> tags.
+C. You can add external style sheets using the `<style>/</style>` tags.
 D. Inline styles are added to an element using the style attribute and work only for that single HTML element
 
 **Correct Answer: A & D**
