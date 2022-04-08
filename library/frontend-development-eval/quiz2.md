@@ -27,57 +27,18 @@ D. section < h2 { font-size: 35px };
 
 **Correct Answer: B**
                
-3 - Consider the diagram of a part of the DOM below. Which snippet of HTML is most likely to generate this DOM structure?
+3 - Which of the following statements are true about the DOM?
 
-![image.png](http://res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/9995e67b60d2933540dce4c7e06662d9-image.png)
+A. The DOM stands for Document Object Model.
 
-A. 
-```
-<div>
-  <h1>A DOM question</h1>
-  <div>
-    <h2>A second heading</h2>
-     <p>Another paragraph</p>
-     <img src="me.jpg"/>
-  </div>
-  <p>This is a paragraph of text</p>
-</div>
-```
-B.
-```
-<div>
-  <h1>A DOM question</h1>
-  <div>
-    <h2>A second heading</h2>
-     <p>Another paragraph</p>
-     <img src="me.jpg"/>
-  </div>
-  <p>This is a paragraph of text</p>
-</div>
-```
-C.
-```
-<div>
-  <h1>A DOM question</h1>
-     <div></div>
-     <p>This is a paragraph of text</p>
-</div>
-    <h2>A second heading</h2>
-     <p>Another paragraph</p>
-     <img src="me.jpg"/>
-```
-D.
-```
-    <div>First div</div>
-     <h1>A DOM question</h1>
-     <div>Second div</div>
-     <p>This is a paragraph of text</p>
-    <h2>A second heading</h2>
-     <p>Another paragraph</p>
-     <img src="me.jpg"/>
-```
+B. It provides a way to update the content, structure and style of an HTML document.
+`
+C. It defines the properties of all HTML elements, and the methods to access them.
 
-**Correct Answer: A** 
+D.None of the above
+
+
+**Correct Answer: A, B and C** 
 
 
 4 - True/False. The following HTML code is correctly written:
@@ -100,7 +61,7 @@ B. False
 
 A. A CSS declaration consists of the property and value applied to the selector
 
-B. A CSS property describes the general category or type of stylistic change that you'd like to make
+B. A CSS property describes the general category or type of stylistic change that you'd like to make to an HTML element.
 
 C. A CSS selector identifies the HTML element that should be affected by the CSS declaration
 
@@ -236,7 +197,7 @@ D.
 
 **Correct Answer: C**
 
-11 - Which of the following methods returns the first element that matches a CSS selector?
+11 - Which of the following DOM methods returns the first element that matches a CSS selector?
 
 A. querySelectorAll()
 
@@ -264,17 +225,17 @@ C. "name" and "author", "My Favorite Things" and "Coltrane"
 
 **Correct Answer: A**
 
-13 - What is the difference between Git and GitHub?
+13 - In Git, which of the following commands allows you to commit the changes that you made?
 
-A. Git is the open-source system used for version control. GitHub is the company that runs a website where users can store and manage versions of their code projects online.
+A. git commit -add-all
 
-B. Git is a project's folder that contains all of the files for the project, as well as each file's revision history. GitHub is the open-source system used for version control.
+B. git add -commit
 
-C. Git and Github are the same thing.
+C. git commit -add -all
 
-D. Git is the open-source system used for version control.GitHub is the person who creates a repo and therefore determines if it is public or private.
+D. git commit -m <commit message>
 
-**Correct Answer: A**
+**Correct Answer: D**
 
 14 - In Git, which of the following commands will change files from untracked to staged?
 
