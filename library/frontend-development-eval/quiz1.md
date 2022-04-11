@@ -159,8 +159,11 @@ D.
 5 - Select all statements that are TRUE about CSS Style Sheets.
 
 A. Internal style sheets make it harder to reuse CSS code, since the CSS rules are written within the individual web page
+
 B. Each HTML file can only link to one external style sheet.
+
 C. You can add external style sheets using the `<style>/</style>` tags.
+
 D. Inline styles are added to an element using the style attribute and work only for that single HTML element
 
 **Correct Answer: A & D**
