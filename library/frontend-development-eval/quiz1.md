@@ -75,6 +75,8 @@ D.
      <img src="me.jpg"/>
 ```
 
+**Correct Answer: B**
+
 
 4 - You have a folder containing some HTML, CSS, JavaScript, and image files and you have to link them together so that your web page would display properly.
 
