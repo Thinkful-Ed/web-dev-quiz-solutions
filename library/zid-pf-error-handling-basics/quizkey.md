@@ -23,6 +23,3 @@
 
 8. What does the error with code EISDIR mean? Hint: Use Node.js' documentation.  
 **Answer: (Is a directory): An operation expected a file, but the given pathname was a directory.**
-
-9. Which of the following causes all .property and .include assertions that follow in the chain to ignore inherited properties? Hint: Use Chai's documentation on the BDD API.  
-**Answer: .own**
