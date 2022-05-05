@@ -1,11 +1,13 @@
-**JavaScript on your Machine: Automated Testing Primer**
+## JavaScript on your machine: Automated testing primer
 
-1. What is a unit test?  
-**Answer: An automated piece of code that checks the behavior of an individual part of a program.**
+1. What is a unit test?
 
-2. Which folder will you typically be required to write your solution code in when working on a Thinkful assignment?  
-**Answer: `src`**
+    **Answer:** D. An automated piece of code that checks the behavior of an individual part of a program
 
-3. What are the benefits of automated testing? Select all that apply.  
-**Answer: (all answers apply) cost-saving + increased productivity + Immediate feedback to developers & timely remediation of code issues + high code quality and performance**
+2. Which folder will you typically be required to write your solution code in when working on a Thinkful assessment?  
 
+    **Answer:** B. `src`
+
+3. What are the benefits of automated testing? Select all that apply.
+
+    **Answer:** A, B, C, & D (all answers). Cost-saving + Increased productivity + Immediate feedback to developers and timely remediation of code issues + High code quality and performance
