@@ -1,13 +1,15 @@
-**Git & GitHub: Version Control**
+## Git and GitHub: Version control
 
 1. Select all of the following statements which are *true*.
 
-**Answer:  A** `git` can be run from the command-line.
+    **Answer:**
 
-**Answer:  C** Git & GitHub both use the idea of repositories.
+    A. `git` can be run from the command line.
 
-**Answer:  E** GitHub is a website where you can backup your code.
+    C. Git and GitHub both use the idea of repositories.
 
-**Answer:  F** It is possible to sync repositories between Git and GitHub.
+    E. GitHub is a website where you can back up your code.
 
-**Answer:  H** Locally, you can see if a project is a repository by whether or not it has a `.git` folder.
+    F. It is possible to sync repositories between Git and GitHub.
+
+    H. Locally, you can see if a project is a repository by whether or not it has a `.git` folder.
