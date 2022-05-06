@@ -1,27 +1,26 @@
-**React Router: Introduction to Front End Routing**
+## React router: Introduction to frontend routing
 
 
 1.  URLs links are the de facto way of navigating the web.
 
+    **Answer:** A. True
 
-**Answer:  A** True
+2.  Which of the following are advantages of frontend navigation?
 
-2.  Which of the following are advantages of front end navigation?
+    **Answers:** A, C, E, and F.
 
-**Answer:  A**  Distributes page rendering to the browser
+    A. Distributes page rendering to the browser
 
-**Answer:  C** Only renders part of the page
+    C. Only renders part of the page
 
-**Answer:  E** Loading a new page is generally faster
+    E. Loading a new page is generally faster
 
-**Answer:  F**  Transitions and animations are easier to implement
+    F. Transitions and animations are easier to implement
 
 3.  Visitors expect the URL to change when the page content changes.
 
+    **Answer:** A. True
 
-**Answer:  A** True
+4.  Visitor are always able to tell the difference  between frontend and backend routing.
 
-4.  Visitor are always able to tell the difference  between front and and backend routing.
-
-
-**Answer:  B** False
+    **Answer:** B. False
