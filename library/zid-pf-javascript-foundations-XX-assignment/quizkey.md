@@ -26,7 +26,7 @@
 
 2. Select all of the following statements that are true about the above question.
 
-    **Answer:** B and D.
+    **Answers:** B and D.
 
     The `break` keyword stops the `for` loop from continuing any further.
 
@@ -83,7 +83,7 @@
 
 4. Select all of the following statements that are true about the above question.
 
-    **Answer:** A and D.
+    **Answers:** A and D.
 
     Placing the `authors` array into a new array will lead to an array inside of an array.
 
