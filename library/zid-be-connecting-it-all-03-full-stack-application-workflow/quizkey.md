@@ -1,29 +1,39 @@
-**Connecting it all: Full Stack Application Workflow**
+## Connecting it all: Full stack-application workflow
 
 1.  Is the following statement true or false?
 
-> All developers believe that the data tier is the most valuable tier.
+    > All developers believe that the data tier is the most valuable tier.
 
-**Answer: B. False.**
+    **Answer:** B. False
 
 2.  Which of the following are advantages of outside-in development?
 
-**Answer: E. All of the above. **
+    **Answers:** A, B, C, and D.
+
+    A. The focus is on user needs.
+
+    B. Accidental feature creation is unlikely.
+
+    C. You can write just enough code to implement the UI.
+
+    D. It provides early feedback.
 
 3. Is the following statement true or false?
 
-> Creating features as small vertical slices of functionality can lead to more predictable delivery.
+    > Creating features as small vertical slices of functionality can lead to more predictable delivery.
 
-**Answer: A. True.**
+    **Answer:** A. True
 
 4. Is the following statement true or false?
 
-> Outside-in development workflow makes changes in horizontal slices.
+    > Outside-in development workflow makes changes in horizontal slices.
 
-**Answer: B. False.**
+    **Answer:** B. False
 
 5. Out of the following, which are advantages of an inside-out development workflow?
 
-**Answer: B. Early changes to the Data tier.**
+    **Answers:** B and D.
 
-**Answer: D. Early clarification of business requirements**
+    B. Changes to the data tier are made early.
+
+    D. Business requirements are clarified early.
