@@ -1,4 +1,4 @@
-## Frontend deployment: What is deployment?
+## What is deployment?
 
 1.  What is the name of the environment which references the deployed version of the application that is intended to be used by users?
 
