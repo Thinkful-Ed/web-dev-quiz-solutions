@@ -1,54 +1,73 @@
-**PostgreSQL: Database Architecture**
+## PostgreSQL: Database architecture
 
 1. Finish the sentence below.
-A table is potentially comprised of many __ and __.
 
-**Answer Key A. Columns**
-**Answer Key C. Rows**
+    > A table is potentially composed of many \_\_\_\_\_ and \_\_\_\_\_.
+
+    **Answers:** A and C.
+
+    A. Columns
+
+    C. Rows
 
 2. Finish the sentence below.
-A database is comprised of many ___.
 
-**Answer Key D. Tables**
+    > A database is composed of many \_\_\_\_\_.
+
+    **Answer:** D. Tables
 
 3. Finish the sentence below.
-Rows are comprised of one or more __.
 
-**Answer Key B. Fields**
+    > Rows are composed of one or more \_\_\_\_\_.
 
-4.  What is the correct datatype to store the following information? Choose the most precise datatype.
-A quantity field that will typically have a number between 0 and 500.
+    **Answer:** B. Fields
 
-**Answer Key C. integer**
+4.  What is the correct data type to store the following information? Choose the most precise data type.
 
-5.  What is the correct datatype to store the following information? Choose the most precise datatype.
-A state field that can have, at most, 2 characters.
+    > A _quantity_ field that will typically have a number between 0 and 500
 
-**Answer Key D. varchar**
+    **Answer:** C. integer
 
-6.  What is the correct datatype to store the following information? Choose the most precise datatype.
-A image_url field that can contain a long URL to a specific image.
+5.  What is the correct data type to store the following information? Choose the most precise data type.
 
-**Answer Key C. varchar**
+    > A _state_ field that can have, at most, 2 characters
 
-7.  What is the correct datatype to store the following information? Choose the most precise datatype.
-A user_id field that contains a unique number that represents the user.
+    **Answer:** D. varchar
 
-**Answer Key B. serial**
+6.  What is the correct data type to store the following information? Choose the most precise data type.
 
-8. Select all of the appropriate field datatypes which could be used to store the following data. Do not assume anything about how the value will be used or what it represents.
-2099
+    > A _image_url_ field that can contain a long URL to a specific image
 
-**Answer Key A. numeric**
-**Answer Key B. integer**
-**Answer Key D. text**
+    **Answer:** C. varchar
 
-9. Select all of the appropriate field datatypes which could be used to store the following data. Do not assume anything about how the value will be used or what it represents.
-2099-05-05
+7.  What is the correct data type to store the following information? Choose the most precise data type.
 
-**Answer Key B. varchar**
-**Answer Key C. char**
-**Answer Key D. date**
-**Answer Key E. text**
+    > A _user_id_ field that contains a unique number that represents the user
 
+    **Answer:** B. serial
 
+8. Select all of the appropriate field data types which could be used to store the following data. Don't assume anything about how the value will be used or what it represents.
+
+    > 2099
+
+    **Answers:** A, B, and D.
+
+    A. numeric
+
+    B. integer
+
+    D. text
+
+9. Select all of the appropriate field data types which could be used to store the following data. Don't assume anything about how the value will be used or what it represents.
+
+    > 2099-05-05
+
+    **Answers:** B, C, D, and E.
+
+    B. varchar
+
+    C. char
+
+    D. date
+
+    E. text
