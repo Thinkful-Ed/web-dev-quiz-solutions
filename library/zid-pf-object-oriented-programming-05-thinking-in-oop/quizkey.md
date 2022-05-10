@@ -12,7 +12,7 @@
 
     E. `Card`
 
-2. Which class(es) might have the `hit()` method?
+2. Which classes might have the `hit()` method?
 
     **Answers:** A and C
 
