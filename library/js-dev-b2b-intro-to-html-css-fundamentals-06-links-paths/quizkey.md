@@ -1,107 +1,112 @@
-**Introduction to HTML & CSS: Links & paths**
+## Introduction to HTML and CSS: Links and paths
 
 1. Which of the following options contains the correct syntax for creating an anchor element?
 
-A. `<a to="https://www.thinkful.com" text="Thinkful" />`
-B. `<a href="https://www.thinkful.com" text="Thinkful" />`
-C. `<a to="https://www.thinkful.com">Thinkful</a>`
-D. `<a href="https://www.thinkful.com">Thinkful</a>`
+    A. `<a to="https://www.thinkful.com" text="Thinkful" />`
 
-**Answer: D**
+    B. `<a href="https://www.thinkful.com" text="Thinkful" />`
+
+    C. `<a to="https://www.thinkful.com">Thinkful</a>`
+
+    D. `<a href="https://www.thinkful.com">Thinkful</a>`
+
+    **Answer:** D
 
 2. What is the purpose of the attribute `target="_blank"` in an anchor element?
 
-```html   
-<a href="https://www.thinkful.com" target="_blank">Link</a>
-```
-A. It opens the Thinkful website in a new browser window.
-B. It opens the Thinkful website in a new browser tab.
-C. It opens the Thinkful website and takes the user to the element with id of `"_blank"`.
-D. It serves no purpose, since its value is set to `_blank`.
+    ```html   
+    <a href="https://www.thinkful.com" target="_blank">Link</a>
+    ```
 
-**Answer: B**
+    A. It opens the Thinkful website in a new browser window.
 
-3. You have a folder containing some HTML, CSS, JavaScript, and image files and you have to link them together so that your web page would display properly.
+    B. It opens the Thinkful website in a new browser tab.
 
-Here's the folder structure:
+    C. It opens the Thinkful website and takes the user to the element with id of `"_blank"`.
 
-```
-├── images
-│   ├── doggy.png
-│   └── kitty.png
-├── index.html
-├── src
-│   └── script.js
-└── styles
-    └── global.css
-```
+    D. It serves no purpose, since its value is set to `_blank`.
 
-Choose the `index.html` file that is properly linked to all images, scripts, and stylesheets in the folder.
+    **Answer:** B
 
-A.
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Document</title>
-  <link href="../styles/global.css" rel="stylesheet" type="text/css" />
-</head>
-<body>
-  <img src="images/doggy.png" alt="doggy">
-  <img src="images/kitty.png" alt="kitty">
-  <script src="src/script.js"></script>
-</body>
-</html>
-```
+3. You have a folder containing some HTML, CSS, JavaScript, and image files. You have to link them together so that your web page will display properly.
 
-B.
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Document</title>
-  <link href="styles/global.css" rel="stylesheet" type="text/css" />
-</head>
-<body>
-  <img src="images/doggy.png" alt="doggy">
-  <img src="images/kitty.png" alt="kitty">
-  <script src="src/script.js"></script>
-</body>
-</html>
-```
+    Here's the folder structure:
 
-C.
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Document</title>
-  <link href="styles/global.css" rel="stylesheet" type="text/css" />
-</head>
-<body>
-  <img src="images/doggy.png" alt="doggy">
-  <img src="images/kitty.png" alt="kitty">
-  <script src="../src/script.js"></script>
-</body>
-</html>
-```
+    ```
+    ├── images
+    │   ├── doggy.png
+    │   └── kitty.png
+    ├── index.html
+    ├── src
+    │   └── script.js
+    └── styles
+        └── global.css
+    ```
 
-D.
+    Choose the `index.html` file that is properly linked to all images, scripts, and stylesheets in the folder.
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Document</title>
-  <link href="styles/global.css" rel="stylesheet" type="text/css" />
-</head>
-<body>
-  <img src="../images/doggy.png" alt="doggy">
-  <img src="../images/kitty.png" alt="kitty">
-  <script src="src/script.js"></script>
-</body>
-</html>
-```
+    A.
+    ```html
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <title>Document</title>
+      <link href="../styles/global.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+      <img src="images/doggy.png" alt="doggy">
+      <img src="images/kitty.png" alt="kitty">
+      <script src="src/script.js"></script>
+    </body>
+    </html>
+    ```
 
-**Answer: B**
+    B.
+    ```html
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <title>Document</title>
+      <link href="styles/global.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+      <img src="images/doggy.png" alt="doggy">
+      <img src="images/kitty.png" alt="kitty">
+      <script src="src/script.js"></script>
+    </body>
+    </html>
+    ```
 
+    C.
+    ```html
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <title>Document</title>
+      <link href="styles/global.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+      <img src="images/doggy.png" alt="doggy">
+      <img src="images/kitty.png" alt="kitty">
+      <script src="../src/script.js"></script>
+    </body>
+    </html>
+    ```
+
+    D.
+    ```html
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <title>Document</title>
+      <link href="styles/global.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+      <img src="../images/doggy.png" alt="doggy">
+      <img src="../images/kitty.png" alt="kitty">
+      <script src="src/script.js"></script>
+    </body>
+    </html>
+    ```
+
+    **Answer:** B
