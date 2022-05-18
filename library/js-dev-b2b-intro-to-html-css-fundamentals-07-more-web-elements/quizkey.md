@@ -47,7 +47,7 @@
 
     **Answers:** A, B, C, and D
 
-4. True or false? HTML allows lists, either ordered or unordered, to be embedded nested within each other. Here's an example:
+4. True or false? HTML allows ordered and unordered lists to be nested within each other, like this:
 
     ```html
     <h1>Lessons to Write Today</h1>
