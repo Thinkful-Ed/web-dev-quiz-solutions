@@ -1,29 +1,35 @@
-**Node + Express + Postgres: Migrations with Knex**
+## Node, Express, and Postgres: Migrations with Knex
 
 1. What is a database migration?
 
-**Answer Key: A. A change to the structure of the tables**
+    **Answer:** A. A change to the structure of the tables
 
 2. What actions require a database migration?
 
-**Answer Key: A. Adding a secondary address field to the supplier table**
+    **Answers:** A and C.
 
-**Answer Key: C. Renaming the Providers table to Suppliers**
+    A. Adding a secondary address field to the _suppliers_ table
 
-3. What are the benefits of having a knex migration file defined?
+    C. Renaming the _providers_ table to _suppliers_
 
-**Answer Key: A. Easily sharing database configurations with other team members**
+3. What are the benefits of having a Knex migration file defined?
 
-**Answer Key: B. Having a single source of truth for the database schema across all environments**
+    **Answers:** A, B, and D.
 
-**Answer Key: D. Being able to undo database changes with rollback features**
+    A. Easily sharing database configurations with other team members
+
+    B. Having a single source of truth for the database schema across all environments
+
+    D. Being able to undo database changes with rollback features
 
 4. Which of the following are true about timestamps?
 
-**Answer Key: A. The `table.timestamps(true, true)` method will add *created_at* and *updated_at* columns.**
+    **Answers:** A, B, C, and D.
 
-**Answer Key: B. Timestamps are important because they help keep track of the table's records.**
+    A. The `table.timestamps(true, true)` method will add *created_at* and *updated_at* columns.
 
-**Answer Key: C. Timestamps are not only used for logging purposes, they may also add functionality to an application.**
+    B. Timestamps are important because they help keep track of the table's records.
 
-**Answer Key: D. It's a best practice to use timestamps.**
+    C. Timestamps are not only used for logging purposes, they may also add functionality to an application.
+
+    D. It's a best practice to use timestamps.

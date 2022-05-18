@@ -1,24 +1,29 @@
-**Developer Collaboration: GitHub Projects & Issues**
+## Developer collaboration: GitHub projects and issues
 
 1. Which of the following are common columns used on a kanban board?
 
-**Answer:  A** Done
+    **Answers:**
 
-**Answer:  E** Upcoming
+    A. Done
 
-**Answer:  F** In Progress
+    E. Upcoming
+
+    F. In progress
 
 2.  Which of the following are abilities of GitHub projects?
 
-**Answer:  A** Sharing links for specific cards.
+    **Answers:**
 
-**Answer:  E** Prioritizing issues and pull requests by organizing them in multiple columns.
+    A. Sharing links for specific cards.
 
-**Answer:  F** Automating the movement of cards based off of other actions taken on GitHub.
+    E. Prioritizing issues and pull requests by organizing them in multiple columns.
 
+    F. Automating the movement of cards based off of other actions taken on GitHub.
 
 3.  Which of the following are standard labels available to you in GitHub Issues?
 
-**Answer:  D** help wanted
+    **Answers:**
 
-**Answer:  E** good first issue
+    D. help wanted
+
+    E. good first issue

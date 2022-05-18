@@ -1,10 +1,13 @@
-**Rendering in React: Thinking in React**
+## Rendering in React: Thinking in React
 
-1. What principle do we use to determine what should be a component?
-**Answer: Single Responsibility**
+1. What principle is used to determine what should be a component?
 
-2. Let's say we are creating a RosterApp. It will look like this:
-**Answer: Option C**
+    **Answer:** Single responsibility
 
-3. Again we are creating RosterApp which looks like this:
-**Answer: Option C**
+2. Imagine you are creating a `RosterApp`. Which of the following is the best choice for a component?
+
+    **Answer:** Option C
+
+3. Again, you are creating `RosterApp`. Which of the following is the best choice for a component?
+
+    **Answer:** Option C

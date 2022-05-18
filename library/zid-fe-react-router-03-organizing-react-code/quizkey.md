@@ -1,25 +1,25 @@
-**React Router: Organizing React Code**
+## React Router: Organizing React code
 
-1.  Which of the following are common ways of organizing React Code?
+1. Which of the following are common ways of organizing React Code?
 
-**Answer:  B** Group by feature
+    **Answers:** B, C, E, and F.
 
-**Answer:  C** Group by role in the application
+    B. Group by feature
 
-**Answer:  E** Group by type
+    C. Group by role in the application
 
-**Answer:  F** Group by route
+    E. Group by type
 
+    F. Group by route
 
-2.  `create-react-app` requires all components to be in the `/src/components` folder.
+2. `create-react-app` requires all components to be in the `/src/components` folder.
 
-**Answer:  B** False
+    **Answer:** B. False
 
-3.  `create-react-app` requires all components to be either grouped by type, or by route.
+3. `create-react-app` requires all components to be either grouped by type or by route.
 
-**Answer:  B** False
+    **Answer:** B. False
 
+4. There are no rules. You are free to organize you code any way you like.
 
-4.    There are no rules. You are free to organize you code any way you like.
-
-**Answer:  A** True
+    **Answer:** A. True

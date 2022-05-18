@@ -1,90 +1,89 @@
-**Connecting it all: Assignment**
+## Connecting it all: Assessment
 
 1. Is the following statement true or false?
 
-> In CORS, the Origin is the combination of protocol, domain, and port.
+    > In CORS, the origin is the combination of protocol, domain, and port.
 
-
-**Answer: True**
+    **Answer:** True
 
 2. Is the following statement true or false?
 
-> Pretty printing reformats text into JSON.
+    > Pretty printing reformats text into JSON.
 
-**Answer: False**
+    **Answer:** False
 
 3. Is the following statement true or false?
 
-> Using async route handlers in Express 4 requires additional code to capture errors.
+    > Using async route handlers in Express 4 requires additional code to capture errors.
 
-**Answer: True**
+    **Answer:** True
 
 4. Is the following statement true or false?
 
-> To render a webpage, the client may send several requests to the server.
+    > To render a web page, the client may send several requests to the server.
 
-**Answer: True**
+    **Answer:** True
 
 5. Is the following statement true or false?
 
-> One advantage of inside-out development is the focus on user needs.
+    > One advantage of inside-out development is the focus on user needs.
 
-**Answer: False**
+    **Answer:** False
 
-6. Adding the following code will enable CORS for the entire server.
+6. Is the following statement true or false?
 
-> router.use(cors());
+    > Adding the code `router.use(cors());` will enable CORS for the entire server.
 
-**Answer: False**
+    **Answer:** False
 
 7. Is the following statement true or false?
 
-> Some developers believe that the data tier is the most valuable tier.
+    > Some developers believe that the data tier is the most valuable tier.
 
-**Answer: True**
+    **Answer:** True
 
 8. Is the following statement true or false?
 
-> A 3-tier architecture reduces the total number of HTTP requests made by an application.
+    > A three-tier architecture reduces the total number of HTTP requests made by an application.
 
-**Answer: False**
+    **Answer:** False
 
 9. Is the following statement true or false?
 
-> It is best to use a logging framework for production logging.
+    > It is best to use a logging framework for production logging.
 
-**Answer: True**
+    **Answer:** True
 
 10. Is the following statement true or false?
 
-> The Client is in charge of enabling CORS, and it does so by using HTTP headers.
+    > The client is in charge of enabling CORS, and it does so by using HTTP headers.
 
-**Answer: False**
+    **Answer:** False
 
 11. Is the following statement true or false?
 
-> Inside-out development workflow starts with changing the application tier.
+    > Inside-out development workflow starts with changing the application tier.
 
-**Answer: False**
+    **Answer:** False
 
 12. Is the following statement true or false?
 
-> X-Request-ID is one of several headers that indicate a request id has already been assigned.
+    > `X-Request-ID` is one of several headers that indicate a request ID has already been assigned.
 
-**Answer: True**
+    **Answer:** True
 
 13. Is the following statement true or false?
 
-> Outside-in development workflow makes changes in small vertical slices.
+    > Outside-in development workflow makes changes in small vertical slices.
 
-**Answer: True**
+    **Answer:** True
 
 14. Is the following statement true or false?
 
-> A call to req.log.info() will be ignored if the log level is set to TRACE.
+    > A call to `req.log.info()` will be ignored if the log level is set to `TRACE`.
 
-**Answer: False**
+    **Answer:** False
 
-15. Which of the following is a mechanism that allows a web page from one origin, to access a resource at a different origin?
+15. Which of the following is a mechanism that allows a web page from one origin to access a resource at a different origin?
 
-**Answer: CORS**
+    **Answer:** CORS

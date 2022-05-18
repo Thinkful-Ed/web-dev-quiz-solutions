@@ -1,7 +1,9 @@
-**React State Management: Interactive Components**
+## React state management: Interactive components
 
 1.  Select all that are true.
 
-**Answer:  B**  A component can edit its own state.
+    **Answer:** B and C.
 
-**Answer:  C**  A component's props can be edited by its parent.
+    B. A component can edit its own state.
+
+    C. A component's props can be edited by its parent.

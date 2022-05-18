@@ -1,31 +1,31 @@
-**Searching and Sorting: Recursion**
+## Searching and sorting: Recursion
 
 1. Is the following statement true or false?
 
-Recursive functions can always be rewritten as iterative functions.
+    > Recursive functions can always be rewritten as iterative functions.
 
-**Answer: A. True**
+    **Answer:** A. True
 
 2. Is the following statement true or false?
 
-Using recursion always improves performance.
+    > Using recursion always improves performance.
 
-**Answer: B. False**
+    **Answer:** B. False
 
 3. Is the following statement true or false?
 
-The base case tells the recursive function when to stop.
+    > The base case tells the recursive function when to stop.
 
-**Answer: A. True**
+    **Answer:** A. True
 
 4. Is the following statement true or false?
 
-Recursion is an algorithm.
+    > Recursion is an algorithm.
 
-**Answer: B. False**
+    **Answer:** B. False
 
 5. Is the following statement true or false?
 
-The recursive case tells the recursive function when to stop.
+    > The recursive case tells the recursive function when to stop.
 
-**Answer: B. False**
+    **Answer:** B. False

@@ -1,79 +1,92 @@
-**Introduction to HTML & CSS: CSS Basics**
+## Introduction to HTML and CSS: CSS basics
 
-1. Which of the following statement(s) are TRUE about CSS? 
+1. Which of the following statements are _true_ about CSS? 
 
-A. A CSS declaration consists of the property and value applied to the selector
-B. A CSS property describes the general category or type of stylistic change that you'd like to make
-C. A CSS selector identifies the HTML element that should be affected by the CSS declaration
-D. All of the above
+	A. A CSS declaration consists of the property and value applied to the selector.
 
-**Answer: D**
+	B. A CSS property describes the general category or type of stylistic change that you'd like to make.
 
-2.  Which of the following tag would you add to a HTML file to link it to a style sheet called `style.css`?
+	C. A CSS selector identifies the HTML element that should be affected by the CSS declaration.
 
-A. `<link href="style.css" rel="stylesheet" type="text/css" />`
-B. `<link to="style.css" rel="stylesheet" type="text/css" />`
-C. `<style href="style.css" rel="stylesheet" type="text/css" />`
-D. `<style to="style.css" rel="stylesheet" type="text/css" />`
+	D. All of the above
 
-**Answer: A**
+	**Answer:** D. All of the above
+
+2.  Which of the following tags would you add to a HTML file to link it to a style sheet called `style.css`?
+
+	A. `<link href="style.css" rel="stylesheet" type="text/css" />`
+
+	B. `<link to="style.css" rel="stylesheet" type="text/css" />`
+
+	C. `<style href="style.css" rel="stylesheet" type="text/css" />`
+
+	D. `<style to="style.css" rel="stylesheet" type="text/css" />`
+
+	**Answer:** A. `<link href="style.css" rel="stylesheet" type="text/css" />`
 
 3. You'd like to set a background color of `red` for all `div` elements on your web page. Which of the following syntax is correct?
 
-A. `div [ background-color: red; ]`
-B. `div { background-color: red; }`
-C. `div [ backgroundColor: red; ]`
-D. `div { backgroundColor: red; }`
+	A. `div [ background-color: red; ]`
 
-**Answer: B**
+	B. `div { background-color: red; }`
 
-4. Which of the following statement(s) are TRUE about the following CSS declaration?
+	C. `div [ backgroundColor: red; ]`
 
-```css
-p {
-  font-family: "Fancy", Futura, sans-serif;
-}
-```
+	D. `div { backgroundColor: red; }`
 
-A. If "Fancy" is not available, then the browser will try to load Futura instead. 
-B. `sans-serif` is a broader font style that serves as a reliable fallback.
-C. If "Fancy" and Futura are not available, then the browser will try to load any available `sans-serif` font in the system.
-D. You're limited to listing only three fonts in the *font stack*.
+	**Answer:** B. `div { background-color: red; }`
 
-**Answer: A, B, & C**
+4. Which of the following statement(s) are _true_ about the following CSS declaration?
 
-5. TRUE/FALSE. The following code setup would cause an error because the CSS file is targeting an element that that doesn't exist in the HTML.
+	```css
+	p {
+	  font-family: "Fancy", Futura, sans-serif;
+	}
+	```
 
-`index.html`:
-```html
-<!DOCTYPE html>
-<html>
+	A. If "Fancy" is not available, then the browser will try to load Futura instead.
 
-<head>
-	<meta charset="utf-8">
-	<link href="style.css" rel="stylesheet" type="text/css" />
-</head>
+	B. `sans-serif` is a broader font style that serves as a reliable fallback.
 
-<body>
+	C. If "Fancy" and Futura are not available, then the browser will try to load any available `sans-serif` font in the system.
 
-	<h1>Header</h1>
-	<p>This is a one sentence paragraph.</p>
+	D. You're limited to listing only three fonts in the font stack.
 
-	<script src="script.js">
-	</script>
-</body>
+	**Answers:** A, B, and C
 
-</html>
-```
+5. True or false? The following code setup would cause an error because the CSS file is targeting an element that that doesn't exist in the HTML.
 
-`style.css`:
-```css
-h2 {
-  text-align: center;
-}
-```
-A. TRUE
-B. FALSE
+	`index.html`:
+	```html
+	<!DOCTYPE html>
+	<html>
 
-**Answer: B**
+	<head>
+		<meta charset="utf-8">
+		<link href="style.css" rel="stylesheet" type="text/css" />
+	</head>
 
+	<body>
+
+		<h1>Header</h1>
+		<p>This is a one sentence paragraph.</p>
+
+		<script src="script.js">
+		</script>
+	</body>
+
+	</html>
+	```
+
+	`style.css`:
+	```css
+	h2 {
+	  text-align: center;
+	}
+	```
+	
+	A. True
+	
+	B. False
+
+	**Answer:** B. False

@@ -1,25 +1,29 @@
-**Introduction to HTML & CSS**
+## Introduction to HTML and CSS
 
-1. What is Repl.it? 
+1. What is Replit? 
 
-**Answer: B. A browser-based coding environment**
+    **Answer:** B. A browser-based coding environment
 
 2. What do HTML and CSS stand for?
 
-**Answer: C. HTML: Hypertext Markup Language, CSS: Cascading Style Sheet**
+    **Answer:** C. HTML: Hypertext Markup Language, CSS: Cascading Style Sheet
 
-3. Choose the correct statement(s).
+3. Choose the correct statements.
 
-**Answer: B. HTML creates the structure of a web page, D. CSS applies styling to a web page**
+    **Answers:** B and D.
+
+    B. HTML creates the structure of a web page.
+
+    D. CSS applies styling to a web page.
 
 4. How can CSS help style a web page? Select all that apply.
 
-**Answer: E. All of the above**
+    **Answer:** E. All of the above
 
 5. You're a web developer working on fixing an issue with a web page. You noticed that although the text, images, and links are displaying on the page, they don't have any styling. What might the issue be?
 
-**Answer: B. The CSS file could be missing**
+    **Answer:** B. The CSS file could be missing.
 
-6. True/False. Chrome does **not** allow you to view the HTML, CSS and JavaScript used to create a web page.
+6. True or false? Chrome does *not* allow you to view the HTML, CSS, and JavaScript used to create a web page.
 
-**Answer: B. False**
+    **Answer:** B. False

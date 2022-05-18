@@ -1,17 +1,23 @@
-**Trees: BST definition**
+## Defining binary search trees
 
-1. Select all TRUE statements about a Binary Search Tree:
+1. Select all _true_ statements about a binary search tree.
 
-**Answer: C. All of the nodes in the left-hand branch of a node are guaranteed to have lower values than the node itself.**
+    **Answers:** C, E, and F.
 
-**Answer: E.  All of the nodes in the right-hand branch of a node are guaranteed to have a higher value than the node itself.**
+    C. All of the nodes in the left-hand branch of a node are guaranteed to have lower values than the node itself.
 
-**Answer: F. Both the left and right subtrees are guaranteed to be BST's themselves.**
+    E.  All of the nodes in the right-hand branch of a node are guaranteed to have a higher value than the node itself.
 
-2. TRUE or FALSE: The following diagram represents a valid BST
+    F. Both the left and right subtrees are guaranteed to be BSTs themselves.
 
-**Answer: A. TRUE**
+2. True or false?
 
-3. TRUE or FALSE: The following diagram represents a valid BST
+    > The following diagram represents a valid BST.
 
-**Answer: B. False**
+    **Answer:** A. True
+
+3. True or false?
+
+    > The following diagram represents a valid BST.
+
+    **Answer:** B. False
