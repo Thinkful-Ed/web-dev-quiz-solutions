@@ -1,4 +1,4 @@
-**Developer collaboration: Pairing**
+**Developer collaboration: Assessment**
 
 1. Evaluate the statements about kanban boards below. Select the statement that is false.
 
