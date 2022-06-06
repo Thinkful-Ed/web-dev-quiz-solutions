@@ -26,11 +26,9 @@
 
 2. Select all of the following statements that are true about the above question.
 
-    **Answers:** B and D.
-
+    **Answers:** B 
+    
     The `break` keyword stops the `for` loop from continuing any further.
-
-    Instead of `const character = title[i]`, the function would work properly if `let character = title[i]` was used.
 
 3. Mentally evaluate the following code. What will be printed to the console?
 
