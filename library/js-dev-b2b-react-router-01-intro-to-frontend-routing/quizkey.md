@@ -46,3 +46,10 @@ C. Navigating to the `/home` path takes the user to the `Home` component
 D. Navigating to the `/about` path takes the user to the `Home` component
 
 **Answer: B, C**
+
+4. True/False. Routing is the process of keeping the browser URL in sync with what's being displayed on the page.
+
+A. True
+B. False
+
+**Answer: A**
