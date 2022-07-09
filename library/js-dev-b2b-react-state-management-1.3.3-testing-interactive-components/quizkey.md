@@ -1,4 +1,4 @@
-**React Router: Using Router, Switch, and Route**
+**React state management: Testing interactive components**
 
 1. True/False. An integration test checks whether or not individual modules of a software, such as individual components of a React application, work properly when combined together.
 
