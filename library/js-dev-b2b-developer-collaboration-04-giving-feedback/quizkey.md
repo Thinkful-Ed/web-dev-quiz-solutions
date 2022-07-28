@@ -32,3 +32,10 @@ C. "You should be able to easily fix this function if you take a look at the doc
 D. "Can you _please_ run this function again locally to make sure it works before submitting a pull request?"
 
 **Answer: B**
+
+4. True/False. You should avoid using sarcastic, condescending, or profane language in code reviews.
+
+A. True
+B. False
+
+**Answer: A**
