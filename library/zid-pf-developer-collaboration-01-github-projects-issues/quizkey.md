@@ -27,3 +27,11 @@
     D. help wanted
 
     E. good first issue
+
+4. True/False. Feature requests are issues that request the addition of new or improved functionality. These could be crucial features, or they could be quality-of-life features, like changing a color scheme.
+
+   A. True
+   
+   B. False
+   
+   **Answer: A**
