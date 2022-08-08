@@ -1,7 +1,7 @@
 
 Fundamentals of Web Design
 
-1 - In web design, A/B testing consists in randomly showing two different versions of a design to users to see which design performs better
+1 - In web design, A/B testing consists of randomly showing two different versions of a design to users to see which design performs better
 
 A. True
 
@@ -33,6 +33,6 @@ B. Keep your design simple
 
 C. Keep your design consistent
 
-D. Make you design accessible
+D. Make your design accessible
 
 **Answer: A, B, C, D**
