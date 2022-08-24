@@ -43,3 +43,7 @@
     **Answer:** A. pending
 
     **Explanation:** A promise will remain in the pending state indefinitely, until either `resolve()` or `reject()` is called.
+    
+4. True/False. A promise is an object that wraps asynchronous code and provides methods that let you extract a single result from that code.
+
+    **Answer:** A. True
