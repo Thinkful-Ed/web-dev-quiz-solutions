@@ -56,7 +56,7 @@ Which of the following code snippets allows you to update the status of all orde
 
 A. 
 ```js
-db.famousQuotes.updateMany(
+db.orders.updateMany(
   { "orderStatus": "Delivered" },
   { $set: {
       "orderStatus":"Awaiting delivery"
@@ -67,7 +67,7 @@ db.famousQuotes.updateMany(
 
 B.
 ```js
-db.famousQuotes.updateMany(
+db.orders.updateMany(
   { "orderStatus": "Awaiting delivery" },
   { $set: {
       "orderStatus":"Delivered"
@@ -79,7 +79,7 @@ db.famousQuotes.updateMany(
 C. 
 
 ```js
-db.famousQuotes.update(
+db.orders.update(
   { "orderStatus": "Awaiting delivery" },
   { $set: {
       "orderStatus":"Delivered"
@@ -91,7 +91,7 @@ db.famousQuotes.update(
 D.
 
 ```js
-db.famousQuotes.updateMany(
+db.orders.updateMany(
   { "orderStatus": "Awaiting delivery" },
   { "orderStatus":"Delivered" }
 )
