@@ -8,7 +8,7 @@
     
     **Answer:** C. In the Node REPL, you can return to a previous line by pressing the up arrow.
     
-3.  If you were to run this file with the `node` command, what would be outputted to the terminal?
+3.  If you were to run the code below in the Node REPL, what would be outputted to the terminal?
     
     ```javascript
     const message = "Welcome to the garden!";
