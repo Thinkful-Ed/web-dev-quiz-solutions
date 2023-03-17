@@ -1,3 +1,13 @@
+## Overview
+
+Congratulations! You have made it this far in your learning journey, and you should be proud of your hard work and dedication. Now, it's time to put your knowledge to test with an assessment.
+
+The assessment is designed to help you evaluate your understanding of the material covered in this module, and to identify areas where you may need to focus your studies. It consists of a series of questions that will challenge your knowledge and critical thinking skills.
+
+Remember, assessments are an important tool for gauging your progress and ensuring that you are on track to achieving your learning goals. So, take your time, read each question carefully, and do your best.
+
+Good luck, and let's get started!
+
 ## Introduction to HTML and CSS: Assessment
 
 1. Which of the following is **not** a reason for adding an `alt` attribute to an image tag?
