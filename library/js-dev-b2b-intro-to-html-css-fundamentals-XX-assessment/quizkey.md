@@ -233,3 +233,17 @@ D. None of the above.
 **Answer:** B. Approach 2 is preferred.
 
 **Distractor Rationale: Which approach best organizes the content using the appropriate HTML elements?**
+
+12. Which HTML tag is used to define a hyperlink?
+
+A. <img>
+B. <a>
+C. <div>
+D. <p>
+
+
+**Answer:** B. 
+
+**Distractor Rationale: A) `<img>` tag is used to display images on a web page. `<div>` tag is used to group and style HTML elements. `<p>` tag is used to define paragraphs of text.
+
+
