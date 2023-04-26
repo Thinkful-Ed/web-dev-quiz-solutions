@@ -10,7 +10,7 @@
 
 2. Is the following statement true or false? The React Testing Library encourages developers to write unit tests over integration tests for their React components because unit tests can test the application from the user's perspective.
 
-    **Answer:** A. True
+    **Answer:** B. False
 
 3. Select all statements about *mock testing* that are true.
 
