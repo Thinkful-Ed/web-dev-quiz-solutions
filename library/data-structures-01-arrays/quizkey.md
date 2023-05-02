@@ -1,61 +1,133 @@
 ## Data structures: Arrays
 
-1. Recall your solution to the missing-number problem using the brute-force algorithm. Your solution may have looked like this:
+1. Consider the following function:
 
-    ```
-    for i = 1 to n
-      if n is not in numbers
-         return i
-    ```
+```js
+function findDuplicates(arr) {
+  let duplicates = [];
+  for (let i = 0; i < arr.length; i++) {
+    for (let j = i + 1; j < arr.length; j++) {
+      if (arr[i] === arr[j] && !duplicates.includes(arr[i])) {
+        duplicates.push(arr[i]);
+      }
+    }
+  }
+  return duplicates;
+}
+```
+What is the running time of this algorithm?
 
-    What is the running time of this algorithm? 
+A. O(1)
 
-    **Answer:** D. `O(n^2)`
+B. O(log N)
 
-2. Recall your solution to the missing-number problem using the sum-and-subtract algorithm. Your solution may have looked like this:
+C. O(N)
 
-    ```
-    expectSum = find the sum of all integers from 1 to n
-    actualSum = find the sum of all numbers in the array
-    return expectedSum - actualSum
-    ```
+D. O(N^2)
 
-    What is the running time of this algorithm?
+    **Answer:** D. `O(N^2)`
 
-    **Answer:** C. `O(n)`
+2. Consider the following function:
 
-3. After analyzing the two algorithms used to solve the missing-number problem, which of the following should be true?
+```js
+function findLargestNumber(numbers) {
+  let max = numbers[0];
+  for (let i = 1; i < numbers.length; i++) {
+    if (numbers[i] > max) {
+      max = numbers[i];
+    }
+  }
+  return max;
+}
+```
+What is the running time of this algorithm?
 
-    **Answer:** B. The sum-and-subtract algorithm is more efficient.
+A. O(1)
 
-4. Recall your solution to the largest and smallest problem using the sort first algorithm. Your solution may have looked like this:
+B. O(log N)
 
-    ```
-    sort the numbers array
-    return [numbers[0], numbers[numbers.length - 1]]
-    ```
+C. O(N)
 
-    What is the running time of this algorithm?
+D. O(N^2)
 
-    **Answer:** D. `O(n log n)`
+    **Answer:** C. `O(N)`
 
-5. Recall your solution to the largest and smallest problem using the sort first algorithm. Your solution may have looked like this:
+3. Which of the following statements is true?
 
-    ```
-    largest = negative infinity
-    smallest = positive infinity
-    for each e in numbers do
-      if e is larger than largest
-         largest = e
-      if e is smaller than smallest
-         smallest = e
-    return [smallest, largest]
-    ```
+A. The findDuplicates algorithm is more efficient than the findLargestNumber algorithm.
 
-    What is the running time of this algorithm?
+B. The findLargestNumber algorithm is more efficient than the findDuplicates algorithm.
 
-    **Answer:** C. `O(n)`
+C. The running time is about the same for both algorithms.
 
-6. After analyzing the two algorithms used to solve the largest and smallest problem, which of the following should be true?
+D. There is no way to tell which is actually better.
 
-    **Answer:** A. The iteration algorithm is more efficient.
+    **Answer:** B. The findLargestNumber algorithm is more efficient than the findDuplicates algorithm.
+
+4. Consider the following function:
+
+```js
+function binarySearch(numbers, target) {
+  let left = 0;
+  let right = numbers.length - 1;
+  while (left <= right) {
+    let mid = Math.floor((left + right) / 2);
+    if (numbers[mid] === target) {
+      return mid;
+    } else if (numbers[mid] < target) {
+      left = mid + 1;
+    } else {
+      right = mid - 1;
+    }
+  }
+  return -1;
+}
+```
+What is the running time of this algorithm?
+
+A. O(1)
+
+B. O(log N)
+
+C. O(N)
+
+D. O(N^2)
+
+    **Answer:** B. O(log N)
+
+
+5. Consider the following function:
+
+```js
+function linearSearch(numbers, target) {
+  for (let i = 0; i < numbers.length; i++) {
+    if (numbers[i] === target) {
+      return i;
+    }
+  }
+  return -1;
+}
+```
+What is the running time of this algorithm?
+
+A. O(1)
+
+B. O(log N)
+
+C. O(N)
+
+D. O(N^2)
+
+    **Answer:** C. `O(N)`
+
+6. After analyzing the two algorithms used to search for a given element, which of the following should be true?
+
+A. The binarySearch algorithm is more efficient.
+
+B. The linearSearch algorithm is more efficient.
+
+C. They are about the same, so it does not matter.
+
+D. linearSearch uses less lines of code, making it a better choice.
+
+    **Answer:** A. The binarySearch algorithm is more efficient.
