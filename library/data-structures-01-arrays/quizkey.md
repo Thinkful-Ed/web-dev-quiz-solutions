@@ -26,6 +26,8 @@ C. O(N)
 D. O(N^2)
 
     **Answer:** D. `O(N^2)`
+    
+    Distractor rationale:  O(N^2) - This is the correct answer because the algorithm iterates over every pair of elements in the array, resulting in a nested loop that runs in quadratic time.
 
 2. Consider the following function:
 
@@ -51,6 +53,8 @@ C. O(N)
 D. O(N^2)
 
     **Answer:** C. `O(N)`
+    
+    Distractor rationale: The correct answer for this question is C. O(N), meaning that the running time of the algorithm grows linearly with the size of the input array.
 
 3. Which of the following statements is true?
 
@@ -63,6 +67,8 @@ C. The running time is about the same for both algorithms.
 D. There is no way to tell which is actually better.
 
     **Answer:** B. The findLargestNumber algorithm is more efficient than the findDuplicates algorithm.
+    
+    Distractor rationale: The findLargestNumber running time is O(N) whereas the running time of the findDuplicate method is O(N^2). 
 
 4. Consider the following function:
 
@@ -94,6 +100,8 @@ C. O(N)
 D. O(N^2)
 
     **Answer:** B. O(log N)
+    
+    Distractor rationale: the correct answer of B. O(log N) means that the algorithm's running time increases logarithmically with the size of the input, and the other answer choices can be ruled out based on the characteristics of the algorithm's implementation.
 
 
 5. Consider the following function:
@@ -119,6 +127,8 @@ C. O(N)
 D. O(N^2)
 
     **Answer:** C. `O(N)`
+    
+    Distractor rationale: The correct answer of C. O(N) means that the algorithm's running time increases linearly with the size of the input, and the other answer choices can be ruled out based on the characteristics of the algorithm's implementation.
 
 6. After analyzing the two algorithms used to search for a given element, which of the following should be true?
 
@@ -131,3 +141,5 @@ C. They are about the same, so it does not matter.
 D. linearSearch uses less lines of code, making it a better choice.
 
     **Answer:** A. The binarySearch algorithm is more efficient.
+    
+    Distractor rationale: A running time of O(log n) is more efficient than O(n).
