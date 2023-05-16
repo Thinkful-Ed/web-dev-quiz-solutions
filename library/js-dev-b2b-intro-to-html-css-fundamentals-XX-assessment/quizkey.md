@@ -8,6 +8,10 @@ Remember, assessments are an important tool for gauging your progress and ensuri
 
 Good luck, and let's get started!
 
+## Learning Objective
+
+By the end of this lesson, you will answer a set of questions that test your understanding of HTML and CSS concepts.
+
 ## Introduction to HTML and CSS: Assessment
 
 1. Which of the following is **not** a reason for adding an `alt` attribute to an image tag?
