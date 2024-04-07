@@ -10,6 +10,8 @@ B. False
 
 **Answer: A**
 
+**Distractor rationale**: Non-relational databases store data in a non-tabular form.
+
 2 - 
 
 True or false.
@@ -22,6 +24,8 @@ B. False
 
 **Answer: A**
 
+**Distractor rationale**: SQL databases use tables and rows to store data.
+
 3 - 
 
 True or false.
@@ -33,6 +37,8 @@ A. True
 B. False
 
 **Answer: A**
+
+**Distractor rationale**: BSON stands for Binary JSON
 
 4 -
 
@@ -48,6 +54,8 @@ D. None of the above
 
 **Answer: B**
 
+**Distractor rationale**: You can add an extra layer of security to your databases by restricting network access to specific IP addresses. The other options don't add an extra layer of security.
+
 5 - 
 
 What is the purpose of MongoDB's Compass?
@@ -61,3 +69,5 @@ C. It allows you to query, analyze, and manage your data in a visual environment
 D. None of the above
 
 **Answer: C**
+
+**Distractor rationale**: MongoDB's Compass allows you to query, analyze, and manage your data in a visual environment.
