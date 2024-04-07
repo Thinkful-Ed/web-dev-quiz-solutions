@@ -10,6 +10,8 @@ B. False
 
 **Answer: A**
 
+**Distractor rationale**: In MongoDB, databases are containers for *collections*
+
 2 - 
 
 True or false.
@@ -21,6 +23,8 @@ A. True
 B. False
 
 **Answer: A**
+
+**Distractor rationale**: A *document* in MongoDB is a set of field-value pairs that stores data.
 
 3 - 
 
@@ -36,6 +40,8 @@ D. try
 
 **Answer: C**
 
+**Distractor rationale**: The `use` command allows you to select the database you want to interact with.
+
 4 - 
 
 Which of the following methods allows you to insert several documents into a collection?
@@ -49,6 +55,8 @@ C. db.collection.insertMany()
 D. db.collection.insertSeveral()
 
 **Answer: C**
+
+**Distractor rationale**: `db.collection.insertMany()` allows you to insert several documents into a collection.
 
 5.
 
@@ -98,6 +106,18 @@ db.orders.updateMany(
 ```
 
 **Answer: B**
+
+**Distractor rationale**: The correct syntax to update the status of all orders from "Awaiting Delivery" to "Delivered is as follows:
+
+```js
+db.orders.updateMany(
+  { "orderStatus": "Awaiting delivery" },
+  { $set: {
+      "orderStatus":"Delivered"
+    }
+  }
+)
+```
 
 
 
