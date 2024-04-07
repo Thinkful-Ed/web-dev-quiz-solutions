@@ -10,7 +10,9 @@ C. {"year": {$lt: 2010}}
 
 D. {"year": {$set: 2010}}
 
-**Answer: B**
+**Answer: B** The correct query uses the `$gt` operator.
+
+**Distractor rationale**:
 
 2 - Which of the following queries would you use to find all movies from 2006 with a metacritic rating greater than 97?
 
@@ -22,7 +24,9 @@ C. `{$and:[{"year": 2006}, {"metacritic": {$gt: 97}} ]}`
 
 D. `{$and:[{"year": 2006}, {"rated": {$gt: 97}} ]}`
 
-**Answer: C**
+**Answer: C** 
+
+**Distractor rationale**: The correct syntax for the query is `{$and:[{"year": 2006}, {"metacritic": {$gt: 97}} ]}`.
 
 3 - For the query above, which movie is returned?
 
@@ -36,6 +40,8 @@ D. Bride of Chucky
 
 **Answer: A**
 
+**Distractor rationale**: The query returns `Pan's Labyrinth`.
+
 4 - Which of the following operators is used to match any of the values specified in an array?
 
 A. $in
@@ -47,6 +53,8 @@ C. $array
 D. $text
 
 **Answer: A**
+
+**Distractor rationale**: The `$in` operator is used to match any of the values specified in an array.
 
 5 - Which of the following queries would you use to find all movies that are longer than 2 hours (120 minutes) and have a metacritic rating of less than 20?
 
@@ -60,6 +68,7 @@ D. {$and:[{"runtime": {$lt:120}}, {"metacritic": {$lt: 20}} ]}
 
 **Answer: B**
 
+**Distractor rationale**: The correct syntax for the query is `{$and:[{"runtime": {$gt:120}}, {"metacritic": {$lt: 20}} ]}`
 
 6 - For the query above, how many documents are returned?
 
@@ -73,6 +82,7 @@ D. 2
 
 **Answer: A**
 
+**Distractor rationale**: The query return 5 documents.
 
 7 - True or False.
 
@@ -83,4 +93,6 @@ A. True
 B. False
 
 **Answer: A**
+
+**Distractor rationale**: `$push` and `$pull` are indeed used to modify arrays.
 
